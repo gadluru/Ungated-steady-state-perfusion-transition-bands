@@ -17,7 +17,15 @@ Reference:
 [4] Adrian (2025). Bullseye Plot.zip (https://www.mathworks.com/matlabcentral/fileexchange/47454-bullseye-plot-zip), MATLAB Central File Exchange. Retrieved February 26, 2025. 
 
 
+Contact:
+Johnathan Le
+le.johnv@outlook.com
 
-      Johnathan Le
-      E-mail: le.johnv@outlook.com
+Jason Mendes
+Jason.Menes@hsc.utah.edu
 
+Edward Dibella
+Edward.DiBella@hsc.utah.edu
+
+Ganesh Adluru
+Ganeshsharma.Adluru@hsc.utah.edu
