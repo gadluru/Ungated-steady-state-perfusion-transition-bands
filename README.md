@@ -9,7 +9,9 @@ Run processing/quantification_code.m to perform blood flow quantification for th
 <br />
 <br />
 
-![Bullseye](https://github.com/user-attachments/assets/572854ca-0445-4f4e-94f8-36b925992923)
+<p align="center" width="60%">
+    <img width="60%" src="https://github.com/user-attachments/assets/572854ca-0445-4f4e-94f8-36b925992923">
+</p>
 
 Figure 7. Resting myocardial blood flow results (reported as Ktrans) for a normal human subject (HR=56 bpm) using transition bands.
 
