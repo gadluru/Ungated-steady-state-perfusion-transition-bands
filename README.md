@@ -18,7 +18,9 @@ Figure 7. Resting myocardial blood flow results (reported as Ktrans) for a norma
 <br />
 <br />
 
-![example_human_dataset](https://github.com/user-attachments/assets/d2928c03-2748-43d7-8ced-5e53adccea40)
+<p align="center" width="60%">
+    <img width="60%" src="https://github.com/user-attachments/assets/d2928c03-2748-43d7-8ced-5e53adccea40">
+</p>
 
 Supporting Information Figure 3. Movie demonstrating the proposed ungated steady-state perfusion reconstruction used to generate myocardial blood flow maps (reported as Ktranrs) of the normal human subject shown in Figure 7.
 
