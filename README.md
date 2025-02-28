@@ -9,6 +9,18 @@ Run processing/quantification_code.m to perform blood flow quantification for th
 <br />
 <br />
 
+![Bullseye](https://github.com/user-attachments/assets/572854ca-0445-4f4e-94f8-36b925992923)
+Figure 7. Resting myocardial blood flow results (reported as Ktrans) for a normal human subject (HR=56 bpm) using transition bands.
+
+<br />
+<br />
+
+![example_human_dataset](https://github.com/user-attachments/assets/30c5bb3d-c494-4ff7-86cb-96d8555afa41)
+Supporting Information Figure 3. Movie demonstrating the proposed ungated steady-state perfusion reconstruction used to generate myocardial blood flow maps (reported as Ktranrs) of the normal human subject shown in Figure 7.
+
+<br />
+<br />
+
 Reference:
 
 [1] Mendes JK, Le JV, Arai AE, Ranjan R, DiBella EVR, Adluru G. Improving ungated steady-state cardiac perfusion using transition bands. Magn Reson Med 2025.
