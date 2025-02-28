@@ -7,7 +7,7 @@ function recon_2D_ungated_SPGR_nSMS_ADMM(kSpace_all,para)
 %   simultaneous Multi-slice acquisition at sPoiled steady-state (CRIMP). 
 %   This reconstruction code builds upon the CRIMP framework
 %   to perform reconstruction for the same acquisition with the addition of
-%   transition bands to improve cardiac perfusion.
+%   transition bands to improve ungated steady-state cardiac perfusion.
 %--------------------------------------------------------------------------
 %   Inputs:      
 %       - kSpace_all: Processed kSpace data [nx, nr, nc]

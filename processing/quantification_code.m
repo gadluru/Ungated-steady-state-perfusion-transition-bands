@@ -5,9 +5,9 @@
 %   simultaneous Multi-slice acquisition at sPoiled steady-state (CRIMP). 
 %   This quantification code builds upon the CRIMP framework
 %   to perform quantification for the same acquisition with the addition of
-%   transition bands to improve cardiac perfusion. This code uses the pTV
-%   registration toolbox for motion compensation and Bullseye Plot code
-%   from the Matlab File Exchange.
+%   transition bands to improve ungated steady-state cardiac perfusion.
+%   This code uses the pTV registration toolbox for motion compensation 
+%   and Bullseye Plot code from the Matlab File Exchange.
 %--------------------------------------------------------------------------
 %   Reference:
 %       [1] Mendes JK, Le JV, Arai AE, Ranjan R, DiBella EVR, Adluru G.
